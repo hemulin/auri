@@ -1699,6 +1699,22 @@
 			text-decoration: none;
 		}
 
+	.credit-badge {
+		position: relative;
+		left:85%;
+		top:90%;
+	}
+
+	.badge-left {
+		left: 0%;
+	}
+
+	@media screen and (max-width: 768px) {
+		.credit-badge {
+			left: 30%;
+		}
+	}
+
 	strong, b {
 		font-weight: 400;
 	}
