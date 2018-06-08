@@ -1703,6 +1703,7 @@
 		position: relative;
 		left:85%;
 		top:90%;
+		opacity: .5;
 	}
 
 	.badge-left {
